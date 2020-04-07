@@ -6,7 +6,7 @@ These are the icons used by the image-based navigation bar.
 
 The icons are published to the Brightspace CDN here:
 
-> https://s.brightspace.com/lib/nav-icons/<version>/<icon>.svg
+> https://s.brightspace.com/lib/nav-icons/1.0.0/icon-name.svg
 
 Do not reference the icons from GitHub, use the CDN location.
 
