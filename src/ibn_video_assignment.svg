@@ -1,46 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>ibn_video_assignment</title>
-    <defs>
-        <rect id="path-1" x="2" y="2" width="35" height="21" rx="1.5"></rect>
-        <filter x="-2.1%" y="-3.6%" width="104.3%" height="107.1%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="-1.5" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.4 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
-        </filter>
-    </defs>
-    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Bongo-Icons" transform="translate(-282.000000, -35.000000)">
-            <g id="ibn_video_assignment" transform="translate(283.000000, 36.000000)">
-                <g id="Back-of-Box" transform="translate(0.000000, 18.000000)">
-                    <polygon id="Path" fill="#3B6AAE" fill-rule="nonzero" points="58 20 29 40 0 20 10 0 48 0"></polygon>
-                    <polygon id="Path" stroke="#494C4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="58 20 29 40 0 20 10 0 48 0"></polygon>
-                    <polygon id="Path" fill="#4B87D9" fill-rule="nonzero" points="10 0 48 0 48 16 10 16"></polygon>
-                    <path d="M10,0 L48,0 L48,16 L10,16 L10,0 Z M48,16 L58,40 M10,16 L0,40" id="Shape" stroke="#494C4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                </g>
-                <g id="Video" transform="translate(28.500000, 34.500000) rotate(-25.000000) translate(-28.500000, -34.500000) translate(9.000000, 22.000000)">
-                    <g id="Group-2">
-                        <rect id="Rectangle" fill="#494C4E" x="0" y="0" width="39" height="25" rx="3"></rect>
-                        <g id="Rectangle">
-                            <use fill="#9AC965" fill-rule="evenodd" xlink:href="#path-1"></use>
-                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                        </g>
-                    </g>
-                    <path d="M25.987255,12.5070097 L16.0118554,17.9934796 C16.007984,17.9956088 16.0031195,17.9941965 16.0009903,17.9903252 C16.0003406,17.989144 16,17.9878179 16,17.9864698 L16,7.01353017 C16,7.00911189 16.0035817,7.00553017 16.008,7.00553017 C16.009348,7.00553017 16.0106742,7.0058708 16.0118554,7.00652044 L25.987255,12.4929903 C25.9911264,12.4951195 25.9925387,12.499984 25.9904094,12.5038554 C25.9896783,12.5051846 25.9885843,12.5062786 25.987255,12.5070097 Z" id="Triangle" stroke="#494C4E" stroke-width="2" fill="#F08FBB"></path>
-                </g>
-                <g id="Front-of-Box" transform="translate(0.000000, 38.000000)">
-                    <path d="M44,-5.32907052e-15 C43.9868208,4.41280746 40.4128075,7.9868208 36,8 L22,8 C17.5871925,7.9868208 14.0131792,4.41280746 14,-5.32907052e-15 L0,-5.32907052e-15 L0,20 L58,20 L58,-5.32907052e-15 L44,-5.32907052e-15 Z" id="Path" fill="#92B7E8" fill-rule="nonzero"></path>
-                    <g id="Group" opacity="0.4" style="mix-blend-mode: lighten;" transform="translate(11.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                        <path d="M8,8 L11,8 C6.58719254,7.9868208 3.0131792,4.41280746 3,0 L-1.77635684e-15,0 C0.0131792044,4.41280746 3.58719254,7.9868208 8,8 L8,8 Z M44,0 L47,0 L47,20 L44,20 L44,0 Z" id="Shape"></path>
-                    </g>
-                    <path d="M44,-5.32907052e-15 C43.9868208,4.41280746 40.4128075,7.9868208 36,8 L22,8 C17.5871925,7.9868208 14.0131792,4.41280746 14,-5.32907052e-15 L0,-5.32907052e-15 L0,20 L58,20 L58,-5.32907052e-15 L44,-5.32907052e-15 Z" id="Path" stroke="#494C4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                </g>
-                <g id="Arrow" transform="translate(19.000000, 0.000000)">
-                    <polygon id="Path" fill="#FEED58" fill-rule="nonzero" points="6 -1.27960142e-13 6 11 0 11 5 19 10 27 15 19 20 11 14 11 14 -1.27960142e-13"></polygon>
-                    <path d="M17,11 L12,19 L8.5,24.6 L10,27 L15,19 L20,11 L17,11 Z M11,0 L14,0 L14,11 L11,11 L11,0 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.4"></path>
-                    <polygon id="Path" stroke="#494C4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="6 -1.27960142e-13 6 11 0 11 5 19 10 27 15 19 20 11 14 11 14 -1.27960142e-13"></polygon>
-                </g>
-            </g>
-        </g>
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter x="-2.1%" y="-3.6%" width="104.3%" height="107.1%" filterUnits="objectBoundingBox" id="b">
+      <feOffset dx="-1.5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.4 0" in="shadowInnerInner1"/>
+    </filter>
+    <rect id="a" x="2" y="2" width="35" height="21" rx="1.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#3B6AAE" fill-rule="nonzero" d="M59 39L30 59 1 39l10-20h38z"/>
+    <path stroke="#494C4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M59 39L30 59 1 39l10-20h38z"/>
+    <path fill="#4B87D9" fill-rule="nonzero" d="M11 19h38v16H11z"/>
+    <path d="M11 19h38v16H11V19zm38 16l10 24M11 35L1 59" stroke="#494C4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <g>
+      <g transform="rotate(-25 76.373 1.446)">
+        <rect fill="#494C4E" width="39" height="25" rx="3"/>
+        <use fill="#9AC965" xlink:href="#a"/>
+        <use fill="#000" filter="url(#b)" xlink:href="#a"/>
+      </g>
+      <path d="M35.382 32.765l-6.722 9.188a.008.008 0 01-.013-.001l-4.638-9.945a.008.008 0 01.008-.012l11.36.757a.008.008 0 01.005.013z" stroke="#494C4E" stroke-width="2" fill="#F08FBB"/>
     </g>
+    <g>
+      <path d="M45 39a8.024 8.024 0 01-8 8H23a8.024 8.024 0 01-8-8H1v20h58V39H45z" fill="#92B7E8" fill-rule="nonzero"/>
+      <path d="M20 47h3a8.024 8.024 0 01-8-8h-3a8.024 8.024 0 008 8zm36-8h3v20h-3V39z" opacity=".4" fill="#FFF" fill-rule="nonzero"/>
+      <path d="M45 39a8.024 8.024 0 01-8 8H23a8.024 8.024 0 01-8-8H1v20h58V39H45z" stroke="#494C4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <path fill="#FEED58" fill-rule="nonzero" d="M26 1v11h-6l5 8 5 8 5-8 5-8h-6V1z"/>
+      <path d="M37 12l-5 8-3.5 5.6L30 28l5-8 5-8h-3zM31 1h3v11h-3V1z" fill="#FFF" fill-rule="nonzero" opacity=".4"/>
+      <path stroke="#494C4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M26 1v11h-6l5 8 5 8 5-8 5-8h-6V1z"/>
+    </g>
+  </g>
 </svg>
